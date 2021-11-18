@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "redux": "^4.1.2",
+    "styled-components": "^5.3.3"
+  }
+}
