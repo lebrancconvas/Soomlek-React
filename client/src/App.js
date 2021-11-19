@@ -9,11 +9,11 @@ function App() {
           <p>Soomlek Web </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://github.com" 
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Github
           </a>
         </header>
       </div>
